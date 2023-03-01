@@ -6,3 +6,4 @@ This repository is a complement to the Ruby course for The Odin Project. It cont
 
 ### Ruby basics
 ✅ Data types
+✅ Arrays
