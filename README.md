@@ -9,4 +9,9 @@ This repository is a complement to the Ruby course for The Odin Project. It cont
 
 ✅ Arrays
 
-✅ Hash
+✅ Hashes
+
+✅ Methods
+
+### To run tests
+`` bundler exec rspec <path/file>``
