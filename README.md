@@ -19,5 +19,7 @@ This repository is a complement to the Ruby course for The Odin Project. It cont
 
 ✅ Predicate enumerables
 
+✅ Nested collections
+
 ### To run tests
 `` bundler exec rspec <path/file>``
