@@ -2,7 +2,7 @@
 
 ## About this repository
 
-This repository is a complement to the Ruby course for The Odin Project. It contains a series of Ruby exercises alongside pre-written tests that will help guide the student towards a solution, providing a Test Driven Development experience.
+This repository is a collection of exercises and projects which I have completed while I was learning Ruby with help of [The Odin Project](www.theodinproject.com).
 
 ### Ruby basics
 ✅ Data types
@@ -21,5 +21,9 @@ This repository is a complement to the Ruby course for The Odin Project. It cont
 
 ✅ Nested collections
 
-### To run tests
+#### To run tests
 `` bundler exec rspec <path/file>``
+
+### Ruby Projects
+
+✅ Caesar Cipher
