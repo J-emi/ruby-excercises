@@ -27,3 +27,7 @@ This repository is a collection of exercises and projects which I have completed
 ### Ruby Projects
 
 ✅ Caesar Cipher
+
+✅ Substrings
+
+✅ Stock picker
