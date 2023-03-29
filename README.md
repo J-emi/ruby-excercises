@@ -33,3 +33,5 @@ This repository is a collection of exercises and projects which I have completed
 ✅ Stock picker
 
 ✅ Bubble sort
+
+✅ Virtual Computer
