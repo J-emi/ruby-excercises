@@ -34,4 +34,6 @@ This repository is a collection of exercises and projects which I have completed
 
 ✅ Bubble sort
 
-✅ Virtual Computer
+✅ Virtual Computer (methods and variables in classes)
+
+✅ Banking (public and private methods)
